@@ -14,8 +14,8 @@
       <file leaf-file-name="Fibo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fibo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="277" />
-    <option name="y" value="27" />
+    <option name="x" value="251" />
+    <option name="y" value="89" />
     <option name="width" value="1400" />
     <option name="height" value="905" />
   </component>
@@ -156,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="277" y="27" width="1400" height="905" extended-state="0" />
+    <frame x="251" y="89" width="1400" height="905" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -197,8 +197,8 @@
     <entry file="file://$PROJECT_DIR$/Rec.py" />
     <entry file="file://$PROJECT_DIR$/Fibo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="18">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
       </provider>
